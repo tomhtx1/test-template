@@ -23,7 +23,7 @@ ___________________
 
 a link for something [Youtube](https://www.youtube.com) 
 
-![youtube](documents/yt_logo.png)
+![youtube]([documents/yt_logo.png](https://github.com/tomhtx1/test-template/blob/main/yt%20logo.png))
 
 [Markdown File Tutorial](https://www.youtube.com/watch?v=zKS7mjVvxGc "Tutorial Link")
 
